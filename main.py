@@ -20,7 +20,7 @@ MENU = {
             "milk": 100,
             "coffee": 24,
         },
-        "cost": 70,
+        "cost": 90,
     }
 }
 
